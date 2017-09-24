@@ -20,6 +20,10 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+修改readme.txt文件，并提交一个新的commit：
+>>>>>>> dev
 =======
 Creating a new branch is quick AND simple.
